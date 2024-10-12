@@ -1,4 +1,6 @@
-[![MasterHead]([https://www.ujjwalkhatri.in/logoanimation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2dEGKznfM0aCa-VSRYfFqpLbQnPOQ5MI_w&s))]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABR9c0SxndoOkXL0D6Ur-G6_3ZhKWfmfIew&s)](https://rishavchanda.io)
+
+
 
 
 <h1 align="center">Hi 🫡, I'm Valentin</h1>
