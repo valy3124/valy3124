@@ -1,10 +1,10 @@
-[![MasterHead](https://www.ujjwalkhatri.in/logoanimation)]
+[![MasterHead]([https://www.ujjwalkhatri.in/logoanimation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2dEGKznfM0aCa-VSRYfFqpLbQnPOQ5MI_w&s))]
 
 
 <h1 align="center">Hi 🫡, I'm Valentin</h1>
 <h3 align="center">trying to dive into the AI world</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/future-code">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/explore/future-code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGUlX1Fe8dIrSwsCsb09m46R6gVcvoDNO8w&s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valy3124&label=Profile%20views&color=0e75b6&style=flat" alt="valy3124" /> </p>
 
