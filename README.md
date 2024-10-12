@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABR9c0SxndoOkXL0D6Ur-G6_3ZhKWfmfIew&s)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAhXzL3pn_xRSCCI5dl7bFOxu2U0P-mdblw&s)](https://rishavchanda.io)
 
 
 
