@@ -4,9 +4,9 @@
 
 
 <h1 align="center">Hi 🫡, I'm Valentin</h1>
-<h3 align="center">trying to dive into the AI world</h3>
+<h3 align="center">trying to dive into the A.I. world</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/explore/future-code](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGUlX1Fe8dIrSwsCsb09m46R6gVcvoDNO8w&s)">
+<img align="right" alt="Coding" width="400" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmg0aDZoYzZ0dG01N2Y1dDFvMTFybTlpN2Q1dnFtOTIxN2lzemt1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valy3124&label=Profile%20views&color=0e75b6&style=flat" alt="valy3124" /> </p>
 
