@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **valentin.micu@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VvU1U9jJyvW1ylugWbaA4xiGpQwhxNZl/view?usp=drive_link](https://drive.google.com/file/d/1VvU1U9jJyvW1ylugWbaA4xiGpQwhxNZl/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1VvU1U9jJyvW1ylugWbaA4xiGpQwhxNZl/view?usp=drive_link](https://drive.google.com/file/d/1VvU1U9jJyvW1ylugWbaA4xiGpQwhxNZl/view?usp=drive_link](https://drive.google.com/file/d/1mz5pivEUz7oymthIKhGAA-vUsjmQKLD6/view?usp=sharing))
 
 - ⚡ Fun fact **If A.I. will not make you laugh, I will**
 
